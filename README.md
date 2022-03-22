@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 
 ### Hi I am Bodhi 👋
 
@@ -57,12 +58,12 @@ Nodejs
  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodhikasabe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bodhi-kasabe)  
 
-![Bodhivardhan's github stats](https://github-readme-stats.vercel.app/api?username=bodhivardhan&count_private=true)
+<!-- ![Bodhivardhan's github stats](https://github-readme-stats.vercel.app/api?username=bodhivardhan&count_private=true)
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bodhivardhan/count.svg" />
-</p>
+</p> -->
 
 
 ⭐️ From [BODHI](https://github.com/bodhivardhan)
